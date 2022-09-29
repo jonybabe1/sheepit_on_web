@@ -4,4 +4,4 @@
 
 
 ## V0.1
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonybabe1/sheepit_on_web/blob/beta/sheepit_on_web.ipynb)
